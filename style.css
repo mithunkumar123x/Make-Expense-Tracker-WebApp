@@ -1,0 +1,18 @@
+.container {
+    margin-top: 50px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #expenseList {
+    margin-top: 20px;
+  }
+  
+  .expense-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f5f5f5;
+  }
+  
